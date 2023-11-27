@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "get_even_numbers"
 version = "0.1.0"
+
+[[package]]
+name = "is_all_unique"
+version = "0.1.0"
