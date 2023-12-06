@@ -11,6 +11,10 @@ name = "calculate-even-and-odd-averages"
 version = "0.1.0"
 
 [[package]]
+name = "count_specific_char_in_string"
+version = "0.1.0"
+
+[[package]]
 name = "double_odd_numbers_in_vector"
 version = "0.1.0"
 
